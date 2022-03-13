@@ -1,0 +1,2 @@
+class SizeMismatch(RuntimeError):
+    pass
